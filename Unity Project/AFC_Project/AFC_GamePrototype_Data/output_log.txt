@@ -1,0 +1,336 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.314 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: G:\Unity Project\AFC_Project\AFC_GamePrototype_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3cec -> priority: 1 
+  Thread -> id: 3fa0 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.703649 ms
+
+Unloading 610 unused Assets to reduce memory usage. Loaded Objects now: 6015.
+Total: 1.841198 ms (FindLiveObjects: 0.334220 ms CreateObjectMapping: 0.160141 ms MarkObjects: 0.551819 ms  DeleteObjects: 0.794164 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.697188 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 6015.
+Total: 0.918181 ms (FindLiveObjects: 0.261403 ms CreateObjectMapping: 0.061439 ms MarkObjects: 0.559214 ms  DeleteObjects: 0.035555 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.948168 ms
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 6900.
+Total: 1.513805 ms (FindLiveObjects: 0.309189 ms CreateObjectMapping: 0.185741 ms MarkObjects: 0.946625 ms  DeleteObjects: 0.071395 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at SpawnScript2.Spawn () [0x00000] in <filename unknown>:0 
+  at SpawnScript2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
